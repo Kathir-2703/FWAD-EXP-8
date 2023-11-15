@@ -149,7 +149,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
+![Screenshot 2023-11-15 204953](https://github.com/Kathir-2703/FWAD-EXP-8/assets/64436376/15516a0f-368b-47fa-85a9-dd9a90bd2449)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.

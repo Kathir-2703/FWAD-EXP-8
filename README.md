@@ -23,7 +23,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
-### CAlC.HTML
+### CALC.HTML
 ```
 <html>
 <head>
